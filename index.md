@@ -30,6 +30,11 @@ Our App does not collect or transmit personal information from anyone, including
 ## 7. Data Erasure
 You can erase all app metrics, habit logs, and recorded episode history at any time by clearing the App's storage in your Android system settings or uninstalling the application.
 
-## 8. Contact Us
+## 8. Accuracy Limitations & Impact Factors
+Environmental Interference: The accuracy of the App's snore detection, counting, and duration tracking can be significantly influenced by external factors. Background noise, room acoustics, device placement, microphone quality, and other environmental sounds (such as fans, air conditioners, traffic, or a partner snoring) may result in inaccurate readings, false positives, or missed episodes. The App's recordings are estimates, not exact scientific measurements.
+
+Habit Impact Estimates: The "impact factor" that correlates your lifestyle habits to your snoring severity is a mathematical estimate based entirely on the subjective data you manually input. It is not a clinical assessment, medical advice, or a proven physiological fact. These correlations are provided strictly for personal observation. You must exercise caution and never use these estimates to self-diagnose, alter medical treatments, or make health decisions. Always consult with a qualified doctor or healthcare provider regarding your sleep health.
+
+## 9. Contact Us
 If you have any questions or feedback regarding this Privacy Policy, please contact us at:
 **Support Email:** selvi.vimalathithan@gmail.com
